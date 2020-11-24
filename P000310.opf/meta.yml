@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03818
   title: བསྟན་པ་བོན་གྱི་ཀླད་དོན།
-  volume: ''
+  volume:
+    f6a6113ddc1740f4832a0126d19f08ad:
+      image_group_id: I2KG200138
+      title: Volume 1 of bstan pa bon gyi klad don/
+      volume_number: 1
+      total_pages: 99
   author: ''
+ebook_metadata:
+  title: བསྟན་པ་བོན་གྱི་ཀླད་དོན།
+  author: ''
+  sku: P000310
+  cover: cover.jpg
+  layers:
+  - pagination
